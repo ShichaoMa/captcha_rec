@@ -1,0 +1,4 @@
+pytesseract
+PIL
+log_to_kafka
+multi_thread_closing

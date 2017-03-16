@@ -1,6 +1,4 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import os
 import pytesseract
 
 from PIL import Image
